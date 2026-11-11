@@ -4,9 +4,19 @@ Track your LeetCode progress on GitHub, with your own free website.
 
 Type a question number and a language. The tool fetches the problem, creates a solution file with the description and a notes section, and updates a progress site you can share.
 
-<!-- Add a screenshot: save it as docs/screenshot.png and uncomment the next line
-![DSA Journey site](docs/screenshot.png)
--->
+## Preview
+
+**1. Categories:** every topic with your solved count and Easy / Medium / Hard breakdown.
+
+<img width="1296" alt="Category cards on the home page" src="https://github.com/user-attachments/assets/00d3d263-0255-4b6c-8e7b-6c3e7ac4d4f7" />
+
+**2. Questions:** click a category to see its question cards.
+
+<img width="1282" alt="Question cards inside a category" src="https://github.com/user-attachments/assets/5b2a6087-ecd1-47e7-8656-2034992c1be8" />
+
+**3. Solution:** click a card to see the problem, your code and your notes.
+
+<img width="1070" alt="Solution page with code and notes" src="https://github.com/user-attachments/assets/e1dbc5b0-69dc-4e07-8280-6794165dee3d" />
 
 ## What you need
 
